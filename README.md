@@ -1,0 +1,2 @@
+The Real Estate Investment Advisor is a machine learning based web application that helps users analyze property investments and predict future property prices. The system evaluates whether a property is a good investment or not and estimates the future price growth based on different property features.
+This project uses Machine Learning, Data Analysis, and Streamlit to build an interactive interface where users can enter property details and get investment insights.
