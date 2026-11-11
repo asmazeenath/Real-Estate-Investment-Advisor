@@ -70,7 +70,7 @@ Note: Update the structure according to your actual project files.
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/Real-Estate-Investment-Advisor.git
+git clone https://github.com/your-asmazeenath/Real-Estate-Investment-Advisor.git
 
 2. Navigate to the Project Folder
 
